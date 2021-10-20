@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/custom_player/2019x/tda_china_dress_haku/haku_textures"
+	$nocull 1
+	"$alphatest" "1"
+       	$alphatestreference .5
+	//$translucent 1
+
+}
+

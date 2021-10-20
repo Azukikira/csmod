@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/uuz/xier/xier_arms"
+	"$lightwarptexture"		"models/player/uuz/public/lightwarp_2"
+
+	"$halflambert"	1
+	"$nodecal"	1
+}

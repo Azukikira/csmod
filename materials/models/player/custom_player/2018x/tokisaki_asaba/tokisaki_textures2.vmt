@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/custom_player/2018x/tokisaki_asaba/tokisaki_textures"
+
+	$nocull 1
+	//"$translucent" "1"
+	$alphatest 1
+       	//$alphatestreference .1
+}
+

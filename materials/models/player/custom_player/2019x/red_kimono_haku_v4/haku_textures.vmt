@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/custom_player/2019x/red_kimono_haku_v4/haku_textures"
+	$nocull 1
+	"$alphatest" "1"
+       	$alphatestreference .5
+	//$translucent 1
+	//$color "[ 0.83 0.83 0.83 ]"
+
+}
+

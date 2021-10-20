@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/thas/my_model/tofu/tofu_v3"
+	"$nocull" 1
+}

@@ -1,0 +1,20 @@
+"VertexLitGeneric" 
+{ 
+	$basetexture "models/player/custom_player/2019g/ump45_v1/ump45"
+
+	$lightwarptexture "models\player\custom_player\2018x\common\hl"
+	$reflectivity "[0.86 0.86 0.86]" //not work for model,but for infomation
+
+	$alphatest 1
+	$nocull 1
+
+	
+	$no_fullbright 1
+
+	$color2 "[0.98 0.98 0.98]"
+	$tintmasktexture "models\player\custom_player\2019g\ump45_v1\ump45"
+	
+	
+	$allowalphatocoverage 1
+	$model 1
+} 

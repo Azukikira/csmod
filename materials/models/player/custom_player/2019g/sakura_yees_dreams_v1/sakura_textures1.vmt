@@ -1,0 +1,29 @@
+VertexLitGeneric
+{
+	$basetexture "models\player\custom_player\2019g\sakura_yees_dreams_v1\sakura_textures"
+	$bumpmap "models\player\custom_player\2018x\common\nor" //fake normal to make phong shader work
+
+	$lightwarptexture "models\player\custom_player\2018x\common\hl"
+
+	$alphatest 0
+	$translucent 1
+	$alpha 1 //you can see it!
+	
+	$phong 0
+	$phongexponenttexture "models\player\custom_player\2019g\sakura_yees_dreams_v1\sakura_textures" //r=exp,g=tintmask,b=none,a=rimmask
+	$basemapluminancephongmask 1
+	$phongfresnelranges "[0.1 0.6 1]"
+	$phongdisablehalflambert 1
+	$halflambert 0 //make sure halflambert is disabled
+	$phongalbedotint 1
+	$phongboost 0.65
+
+
+	$nolod 1
+	$nocull 1
+
+	$color "[0.88 0.88 0.88]"
+	$tintmasktexture "models\player\custom_player\2019g\sakura_yees_dreams_v1\sakura_textures"
+
+	$model 1
+}

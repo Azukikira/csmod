@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/uuz/rita/Rita_02"
+	"$lightwarptexture"		"models/player/uuz/public/lightwarp_2"
+
+	"$halflambert"	1
+	"$nodecal" 1
+	"$translucent" 1
+	"$nocull" 1
+}

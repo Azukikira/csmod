@@ -1,0 +1,37 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/uuz/SIMCITY3000SE/hk416/hk416_3"
+	"$lightwarptexture"		"models/player/uuz/public/lightwarp_1"
+
+	"$halflambert"	1
+	"$nodecal"	1
+	
+	
+	//proxy vars
+	$rand 0
+	$one 1
+	$zero 0
+	$frame 0
+	$framec 1
+	$result 0
+	"Proxies"
+	{
+		"EntityRandom"
+		{
+			"scale" "1.99"
+			"resultVar" "$rand"
+		}
+
+		"Frac"
+		{
+			"srcVar1" "$rand"
+			"resultVar" "$result"
+		}
+
+		"Equals" //Set baseTexture
+		{
+			"srcVar1" "$result"
+			"resultVar" "$frame"    
+		}
+	}
+}

@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/uuz/fran/olga/olga_1"
+	"$lightwarptexture"		"models/player/uuz/public/lightwarp_1"
+
+	"$halflambert"	1
+	"$nocull"	1
+}

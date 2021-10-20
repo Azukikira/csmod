@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	$basetexture "models\player\custom_player\2019g\haato_aki_v1\haato_aki_textures"
+
+	$halflambert 1
+	$nocull 1
+	//$alphatest 1
+}

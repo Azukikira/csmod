@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/uuz/emilia/emilia_02"
+	"$lightwarptexture"		"models/player/uuz/public/lightwarp_1"
+	"$nocull" "1"
+	"$translucent" "1"
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/custom_player/cnyy/d"
+	$nocull 1
+	"$halflambert"	1
+}

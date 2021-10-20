@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/custom_player/cnyy/b"
+	$nocull 1
+	$nodecal 1
+	$model 1
+	$halflambert 1
+	$phong 1
+//	$phongexponent 33
+	"$phongexponenttexture " "models/player/custom_player/cnyy/bx"
+	$phongboost	6
+	$phongfresnelranges	"[0.05 0.5 1]"
+}

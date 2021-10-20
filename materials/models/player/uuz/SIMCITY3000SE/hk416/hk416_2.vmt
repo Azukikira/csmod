@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/uuz/SIMCITY3000SE/hk416/hk416_2"
+	"$lightwarptexture"		"models/player/uuz/public/lightwarp_1"
+
+	"$halflambert"	1
+	"$nodecal"	1
+}
